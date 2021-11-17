@@ -693,7 +693,7 @@ QBShared.Jobs = {
 	},
 	['police'] = {
 		label = 'Law Enforcement',
-		defaultDuty = true,
+		defaultDuty = false,
 		grades = {
             ['0'] = {
                 name = 'Recruit',
@@ -720,7 +720,7 @@ QBShared.Jobs = {
 	},
 	['ambulance'] = {
 		label = 'EMS',
-		defaultDuty = true,
+		defaultDuty = false,
 		grades = {
             ['0'] = {
                 name = 'Recruit',
