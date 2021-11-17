@@ -5,6 +5,7 @@ description 'QB-Core'
 version '1.0.0'
 
 shared_scripts {
+	'import.lua',
 	'config.lua',
 	'shared.lua'
 }
